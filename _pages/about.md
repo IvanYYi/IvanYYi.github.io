@@ -7,13 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<font size="+10">Description</font>
+<font size="+2">I am a PhD candidate in Economics at London School of Economics. I will be on the 2022-2023 job market.</font>
 
-I am a PhD candidate in Economics at London School of Economics. I will be on the 2022-2023 job market.
+
 
 <!-- I received my PhD from xx in xx.-->
 
-
-My research interest is Macro Finance Theory.
+<font size="+2">My research interest is Macro Finance Theory.</font>
 
 Email: [Y.YI3@.ac.uk](mailto:Y.YI3@cam.ac.uk)
