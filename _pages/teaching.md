@@ -20,7 +20,8 @@ author_profile: true
 
 ## Undergraduate Level
 * EC221 Principles of Econometrics, LSE, 2018-2021
-* International Economics, Wuhan University, 2015-2016                                                                                                                              * Ordinary Differential Equations, Wuhan University, 2015-2016
+* International Economics, Wuhan University, 2015-2016
+* Ordinary Differential Equations, Wuhan University, 2015-2016                                                                                                                           
                                                                                                                                                                                                                          
 
 
