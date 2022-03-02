@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate at Faculty of Economics, University of Cambridge.
+I am a PhD candidate in Economics at London School of Economics.
 
 <!-- I received my PhD from xx in xx.-->
 
-My research interests are apllied econometrics and empirical finance.
+My research interests are Macro Finance Theory.
 
-Email: [zz391@cam.ac.uk](mailto:zz391@cam.ac.uk)
+Email: [Y.YI3@.ac.uk](mailto:Y.YI3@cam.ac.uk)
