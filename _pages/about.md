@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<font size="+1">Description</font>
+<font size="+10">Description</font>
 
 I am a PhD candidate in Economics at London School of Economics. I will be on the 2022-2023 job market.
 
