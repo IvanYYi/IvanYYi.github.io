@@ -22,7 +22,7 @@ author_profile: true
 * [Credit Rating Prediction Through Supply Chains: A Machine Learning Approach](https://doi.org/10.1111/poms.13634) (with Jing Wu and Sean X. Zhou)\
     ***Production and Operations Management***, forthcoming-->
 
-##Working Papers
+## Working Papers
 * Bank Concentration, Bank Capital and Misallocation
 
 
