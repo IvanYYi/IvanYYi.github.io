@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<br\>
 I am a PhD candidate in Economics at London School of Economics.
 
 <!-- I received my PhD from xx in xx.-->
