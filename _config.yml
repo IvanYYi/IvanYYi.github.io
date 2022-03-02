@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Zhaocheng Zhang"
-description              : &description "PhD candidate at University of Cambridge"
+name                     : &name "Yu Yi"
+description              : &description "PhD candidate at London School of Economics"
 url                      : https://zhaocheng-zhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zhaocheng-zhang.github.io"
+repository               : "yuyi.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhaocheng Zhang"
+  name             : "Yu Yi"
   avatar           : "WechatIMG1.jpeg"
   bio              : "PhD candidate in Economics"
-  location         : "Cambridge, U.K."
+  location         : "London, U.K."
   employer         :
   pubmed           : 
   googlescholar    : 
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zhaocheng-zhang"
+  github           : "yuyi"
   google_plus      :
   keybase          :
   instagram        :
