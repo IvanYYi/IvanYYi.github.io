@@ -7,9 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD candidate in Economics at London School of Economics.
+<font size="+1">Description</font>
+
+I am a PhD candidate in Economics at London School of Economics. I will be on the 2022-2023 job market.
 
 <!-- I received my PhD from xx in xx.-->
+
 
 My research interest is Macro Finance Theory.
 
