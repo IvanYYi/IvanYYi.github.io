@@ -17,6 +17,6 @@ I am a PhD candidate in Economics at London School of Economics. I will be on th
 
 My research interest is Macro Finance Theory.
 
-Email: [Y.YI3@.ac.uk](mailto:Y.YI3@cam.ac.uk)
+Email: [Y.YI3@lse.ac.uk](mailto:Y.YI3@lse.ac.uk)
 
 
