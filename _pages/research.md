@@ -23,7 +23,8 @@ author_profile: true
     ***Production and Operations Management***, forthcoming-->
 
 ## Working Papers
-* [Bank Concentration, Bank Capital and Misallocation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4046630). *AFA 2022 (Scheduled), AMES 2022 (Scheduled), CMiD 2022 (Scheduled), ESAM 2022 (Scheduled)*
+* [Bank Concentration, Bank Capital and Misallocation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4046630). 
+  *AFA 2022 (Scheduled), AMES 2022 (Scheduled), CMiD 2022 (Scheduled), ESAM 2022 (Scheduled)*
 
 
 
