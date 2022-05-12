@@ -8,7 +8,7 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Yu Yi"
+name                     : &name "Yu Yi (易昱)"
 description              : &description "PhD candidate at London School of Economics"
 url                      : https://ivanyyi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
