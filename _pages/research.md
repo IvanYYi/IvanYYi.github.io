@@ -24,10 +24,10 @@ author_profile: true
 
 ## Working Papers
 * [Bank Concentration, Bank Capital and Misallocation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4046630). 
-  *AsianFA 2022 (Scheduled), AMES 2022 Tokyo (Scheduled), CMiD 2022 (Scheduled), ESAM 2022 (Scheduled)， LSE WiP Seminar.*
+  *Present at AsianFA 2022 (Scheduled), AMES 2022 Tokyo (Scheduled), CMiD 2022 (Scheduled), ESAM 2022 (Scheduled)， LSE WiP Seminar.*
 
 
 
 ## Work in Progress
 
-* Bank Concentration and Risk Taking: Stability VS. Efficiency
+* Bank Concentration and Risk Taking: Stability VS. Efficiency. *Present at LSE WiP seminar*
