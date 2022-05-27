@@ -30,4 +30,4 @@ author_profile: true
 
 ## Work in Progress
 
-* Bank Concentration and Risk Taking: Stability VS. Efficiency. *Present at LSE WiP seminar*
+* Bank Concentration, Bank Capital and Risk-shifting. *Present at LSE WiP seminar*
