@@ -73,7 +73,7 @@ social:
 # Analytics
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
-  google:
+  google:   "Yu Yi-LSE-Economics-PhD"
     tracking_id          :
 
 
