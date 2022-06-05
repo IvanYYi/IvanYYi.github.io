@@ -9,7 +9,7 @@ redirect_from:
 ---
 <br/>
 
-I am a PhD candidate in Economics at London School of Economics. I will be on the 2022-2023 job market.
+I am a PhD candidate in Economics at London School of Economics (LSE). I will be on the 2022-2023 job market.
 
 
 
