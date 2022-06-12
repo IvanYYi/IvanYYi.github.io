@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Yu Yi (易昱)"
-excerpt: "Yu Yi (易昱)"
+excerpt: "Yi, Yu"
 author_profile: true
 redirect_from: 
   - /about/
