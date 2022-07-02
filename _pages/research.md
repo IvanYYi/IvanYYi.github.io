@@ -24,7 +24,7 @@ author_profile: true
 
 ## Working Papers
 * [Bank Concentration, Bank Capital and Misallocation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4046630). 
-  *Present at AsianFA 2022, AFR International Conference of Economics and Finance 2022, AMES 2022 Tokyo (Scheduled), Macro Finance Society Workshop 2022 (Scheduled), MMF 2022 (Scheduled), ESAM 2022, LSE CFM WiP Seminar 2020-2021.*
+  *Present at AsianFA 2022, AFR International Conference of Economics and Finance 2022, AMES 2022 Tokyo (Scheduled), Macro Finance Society Workshop (Poster Session) 2022 (Scheduled), MMF 2022 (Scheduled), ESAM 2022, LSE CFM WiP Seminar 2020-2021.*
 
 
 
