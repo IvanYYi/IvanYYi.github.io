@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yu Yi (易昱)"
+title: "Yu (Ivan) Yi"
 excerpt: "Yi, Yu"
 author_profile: true
 redirect_from: 
