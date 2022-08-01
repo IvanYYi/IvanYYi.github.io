@@ -30,4 +30,4 @@ author_profile: true
 
 ## Work in Progress
 
-* Bank Concentration, Bank Capital and Risk-shifting. *Present at LSE CFM WiP seminar 2022.*
+* Bank Concentration, Bank Capital and Risk-shifting. New draft coming soon. *Present at LSE CFM WiP seminar 2022.*
