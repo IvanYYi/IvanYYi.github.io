@@ -59,4 +59,4 @@ Service and leadership
 * Currently signed in to 43 different slack teams
 -->
 
-[Curriculum Vitae](https://IvanYYi.github.io/files/CV_YY.pdf)
+[Curriculum Vitae](https://IvanYYi.github.io/files/CV_YUYI.pdf)
