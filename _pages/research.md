@@ -23,10 +23,6 @@ author_profile: true
  
    
 ***Production and Operations Management***, forthcoming-->
-<style>
-body {
-text-align: justify}
-</style>
 
 ## Working Papers
 * Bank Capital, Bank Concentration, and Financial Stability. (Job Market Paper) 
