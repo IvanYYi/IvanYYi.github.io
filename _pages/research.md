@@ -29,7 +29,7 @@ author_profile: true
  
   *Abstract: How does bank capital affect the relationship between bank concentration and risk taking? I develop a tractable dynamic model with heterogeneous financially constrained entrepreneurs and an imperfectly competitive banking sector. Based on the model, the relationship between bank concentration and entrepreneurs' risk taking depends heavily on the bank capital constraint: when the bank capital ratio exceeds the minimum requirement, intensifying bank competition leads to fragility; otherwise, no significant correlation is observed. To explain the equilibrium characterization, I propose two mechanisms, a risk shifting mechanism and a net margin mechanism, the direction of which will be determined by the banks' optimal decisions on the loan rate and the accumulation of excess bank capital. The two forces also jointly determine a non-monotonic relationship between bank concentration and efficiency. I discuss how efficiency and stability can be enhanced simultaneously. *
  
- *Present at LSE CFM WiP seminar 2022, MMF 2022.*
+  *Present at LSE CFM WiP seminar 2022, MMF 2022.*
 
 * [Bank Concentration, Bank Capital, and Misallocation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4046630). 
   
