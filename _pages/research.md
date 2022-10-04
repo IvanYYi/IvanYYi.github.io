@@ -23,11 +23,14 @@ author_profile: true
     ***Production and Operations Management***, forthcoming-->
 
 ## Working Papers
+* Bank Capital, Bank Concentration, and Financial Stability. (Job Market Paper) *Present at LSE CFM WiP seminar 2022, MMF 2022.*
+
 * [Bank Concentration, Bank Capital, and Misallocation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4046630). 
   *Present at AsianFA 2022, AFR International Conference of Economics and Finance 2022, AMES 2022 Tokyo, ESAM 2022, LSE CFM WiP Seminar 2020-2021, Macro Finance Society Workshop (Poster Session) 2022,  UZH Macro PhD Workshop 2022.*
+  *Abstract: *
 
 
 
 ## Work in Progress
 
-* Bank Capital, Bank Concentration, and Financial Stability. New draft coming soon. *Present at LSE CFM WiP seminar 2022, MMF 2022.*
+
