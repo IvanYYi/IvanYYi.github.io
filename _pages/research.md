@@ -4,6 +4,10 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
+<style>
+body {
+text-align: justify}
+</style>
 
 <!--
 {% if author.googlescholar %}
