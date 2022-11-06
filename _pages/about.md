@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 <br/>
+<style>
+body {
+text-align: justify}
+</style>
 
 I am a PhD candidate in the Department of Economics at London School of Economics (LSE) and is affiliated with the Centre for Macroeconomics. My major research interest lies in macro-finance theory, especially the macro implications of interaction between bank concentration and bank capital. In my job market paper, I find that the impact of bank concentration on risk taking heavily depends on whether the bank capital constraint is binding.
 
