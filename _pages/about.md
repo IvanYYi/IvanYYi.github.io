@@ -21,5 +21,6 @@ I am a PhD candidate in the Department of Economics at London School of Economic
 I am on the job market in 2022-23 and am available for interviews both at the European Job Market in December and at the ASSA Meetings in January. 
 
 Email: [Y.YI3@lse.ac.uk](mailto:Y.YI3@lse.ac.uk)
+
 This is my [CV](https://IvanYYi.github.io/files/CV_YUYI.pdf).
 
