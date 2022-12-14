@@ -35,7 +35,7 @@ text-align: justify}
  
   *Present at LSE CFM WiP seminar 2022, MMF 2022, PhD Macro Workshop Xiamen University 2022, China Economics Annual Conference 2022 (Scheduled), SWFA Conference 2023 (Scheduled).*
 
-* [Bank Concentration, Bank Capital, and Misallocation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4046630). 
+* [Bank Concentration, Bank Capital, and Misallocation, 2022](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4046630). 
   
   *Abstract: U.S. bank concentration, together with the bank capital, have been rising over the last thirty years. Based on the stylized facts, I develop a tractable dynamic model with heterogeneous financially constrained entrepreneurs and an imperfectly competitive banking sector. The model implies that increasing bank concentration leads to an increase in bank capital and a possibly non-binding capital constraint. I use the model to understand how bank concentration affects misallocation through the interaction between bank concentration and bank capital when the financial market is incomplete, which I refer to as the "bank capital channel". This channel suggests that banks over-accumulate equity capital in terms of allocative efficiency, based on which I discuss implications on regulations.*
   
