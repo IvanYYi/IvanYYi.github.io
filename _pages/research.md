@@ -42,7 +42,7 @@ text-align: justify}
     *Present at AsianFA 2022, AFR International Conference of Economics and Finance 2022, AMES 2022 Tokyo, ESAM 2022, LSE CFM WiP Seminar 2020-2021, Macro Finance Society Workshop (Poster Session) 2022,  UZH Macro PhD Workshop 2022.*
 
 
-* [The Sexual Orientation Glass Ceiling in the United States (1990 - 2019)](https://www.aeaweb.org/conference/2021/preliminary/paper/NfDk3eTB) (with Yuxiao Hu), 2022, R & R Journal of Population Economics. [Slides](https://www.aeaweb.org/conference/2021/preliminary/powerpoint/Ft4Aehky)
+* [The Sexual Orientation Glass Ceiling in the United States (1990 - 2019)](https://www.aeaweb.org/conference/2021/preliminary/paper/NfDk3eTB) (with Yuxiao Hu), 2022, R & R at *Journal of Population Economics*. [Slides](https://www.aeaweb.org/conference/2021/preliminary/powerpoint/Ft4Aehky)
 
 
 
