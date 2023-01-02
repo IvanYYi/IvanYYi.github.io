@@ -36,7 +36,7 @@ text-align: justify}
   *Present at LSE CFM WiP seminar 2022, MMF 2022, PhD Macro Workshop Xiamen University 2022, China Economics Annual Conference 2022 (Scheduled), SWFA Conference 2023 (Scheduled).*
   
  
-* [The Sexual Orientation Glass Ceiling in the United States (1990 - 2019)](https://www.aeaweb.org/conference/2021/preliminary/paper/NfDk3eTB) (with Yuxiao Hu), 2022, Revise & Resubmit at *Journal of Population Economics*. [Slides](https://www.aeaweb.org/conference/2021/preliminary/powerpoint/Ft4Aehky)
+* [The Sexual Orientation Glass Ceiling in the United States (1990 - 2019)](https://www.aeaweb.org/conference/2021/preliminary/paper/NfDk3eTB) (with Yuxiao Hu), 2022, Revise & Resubmit at ***Journal of Population Economics***. [Slides](https://www.aeaweb.org/conference/2021/preliminary/powerpoint/Ft4Aehky)
 
    *Abstract: We find that homosexual male workers in the United States have persistently faced a glass ceiling since the sexual orientation wage gap increases across the wage distribution. Specifically, non-white homosexuals and those working in female-dominated environment are exposed to a greater glass ceiling effect. We employ unconditional quantile regression and Oaxaca-style decomposition to determine whether this pattern is primarily attributable to productivity differences or to wage structure differences. Results suggest that although homosexual male workers should have earned more due to their better labor market characteristics, the unequal reward system based on sexual orientation impedes them from gaining high incomes.*  
 
