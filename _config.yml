@@ -9,7 +9,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Yu Yi"
-description              : &description "PhD candidate at London School of Economics"
+description              : &description "Assistant Professor of Economics at Nankai University"
 url                      : https://ivanyyi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ivanyyi.github.io"
@@ -81,8 +81,8 @@ analytics:
 author:
   name             : "Yu Yi"
   avatar           : "temp2.jpg"
-  bio              : "PhD candidate in Economics"
-  location         : "London, U.K."
+  bio              : "Assistant Professor of Economics"
+  location         : "Tianjin, China"
   employer         :
   pubmed           : 
   googlescholar    : 
