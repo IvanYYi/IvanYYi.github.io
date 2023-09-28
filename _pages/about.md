@@ -13,7 +13,7 @@ body {
 text-align: justify}
 </style>
 
-I am an Assistant Professor of Economics at Nankai University. I received my PhD from the London School of Economics and Political Science (LSE). 
+Welcome! I am an Assistant Professor of Economics at Nankai University. I received my PhD from the London School of Economics and Political Science (LSE). 
 
 My major research interest lies in macro finance theory, especially banking.
 
