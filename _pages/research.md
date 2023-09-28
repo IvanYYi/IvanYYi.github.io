@@ -43,7 +43,7 @@ text-align: justify}
 <!--  *Abstract: U.S. bank concentration, together with the bank capital, have been rising over the last thirty years. Based on the stylized facts, I develop a tractable dynamic model with heterogeneous financially constrained entrepreneurs and an imperfectly competitive banking sector. The model implies that increasing bank concentration leads to an increase in bank capital and a possibly non-binding capital constraint. I use the model to understand how bank concentration affects misallocation through the interaction between bank concentration and bank capital when the financial market is incomplete, which I refer to as the "bank capital channel". This channel suggests that banks over-accumulate equity capital in terms of allocative efficiency, based on which I discuss implications on regulations.*
   
     *Present at AsianFA 2022, AFR International Conference of Economics and Finance 2022, AMES 2022 Tokyo, ESAM 2022, LSE CFM WiP Seminar 2020-2021, Macro Finance Society Workshop (Poster Session) 2022,  UZH Macro PhD Workshop 2022.*
-
+-->
 
 
 * ["The Sexual Orientation Glass Ceiling in the United States (2008 - 2021)"](https://ivanyyi.github.io/files/glass_ceiling_2021.pdf) (with Yuxiao Hu), 2023, R&R at ***Journal of Population Economics***. [Slides](https://www.aeaweb.org/conference/2021/preliminary/powerpoint/Ft4Aehky)
@@ -57,7 +57,7 @@ text-align: justify}
 
   
 
--->
+
 
 ## Work In Progress
 * Many to be updated.
