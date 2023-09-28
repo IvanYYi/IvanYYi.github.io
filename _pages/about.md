@@ -17,7 +17,7 @@ Welcome! I am an Assistant Professor of Economics at Nankai University. I receiv
 
 My major research interest lies in macro finance theory, especially banking.
 
-Email: [Y.YI3@lse.ac.uk](mailto:ivan_yyi@outlook.com)
+Email: [ivan_yyi@outlook.com](mailto:ivan_yyi@outlook.com)
 
 This is my [CV](https://IvanYYi.github.io/files/CV_YUYI.pdf).
 
