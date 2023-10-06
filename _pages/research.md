@@ -29,7 +29,11 @@ text-align: justify}
 ***Production and Operations Management***, forthcoming-->
 
 ## Working Papers
-* ["Clarifying the Relationship Between Bank Concentration and Risks: Role of Bank Capital"](https://ivanyyi.github.io/files/JMP_YUYI.pdf), 2023. (**Job Market Paper**) [SSRN Version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4250446)
+* ["Clarifying the Relationship Between Bank Concentration and Risks: Role of Bank Capital"](https://ivanyyi.github.io/files/JMP_YUYI.pdf), 2023. (**Job Market Paper**)
+
+<!--
+[SSRN Version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4250446)
+ -->
  
 <!--  *Abstract: How does bank capital affect the relationship between bank concentration and risk taking? I develop a tractable dynamic model with heterogeneous financially constrained entrepreneurs and an imperfectly competitive banking sector. When the bank capital ratio exceeds the minimum requirement, reducing bank concentration leads to more entrepreneurs' risk taking; otherwise, the concentration-risk relationship is ambiguous. To explain the equilibrium characterization, I propose two mechanisms, a net margin mechanism and a risk shifting mechanism, whose direction depends on banks' optimal decisions regarding loan quantity and the accumulation of excess bank capital. Considering the risk shifting mechanism and the non-binding capital constraint, the model suggests that there is non-monotonic relationship between bank concentration and the loan rate. The two mechanisms also jointly establish a non-monotonic relationship between bank concentration and allocative efficiency. Two pieces of micro-level evidence in the U.S. support the model predictions: first, the relationship between bank concentration and loan rate is non-monotonic; second, the effect of bank concentration on the loan rate is positive when the bank capital ratio is low. I discuss how efficiency and stability can be enhanced simultaneously.*
  
@@ -38,7 +42,11 @@ text-align: justify}
  -->
 
 
-* ["Bank Concentration, Bank Capital, and Misallocation"](https://ivanyyi.github.io/files/working.pdf), 2023. [SSRN Version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4046630)
+* ["Bank Concentration, Bank Capital, and Misallocation"](https://ivanyyi.github.io/files/working.pdf), 2023. 
+
+<!--
+[SSRN Version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4046630)
+ -->
 
 <!--  *Abstract: U.S. bank concentration, together with the bank capital, have been rising over the last thirty years. Based on the stylized facts, I develop a tractable dynamic model with heterogeneous financially constrained entrepreneurs and an imperfectly competitive banking sector. The model implies that increasing bank concentration leads to an increase in bank capital and a possibly non-binding capital constraint. I use the model to understand how bank concentration affects misallocation through the interaction between bank concentration and bank capital when the financial market is incomplete, which I refer to as the "bank capital channel". This channel suggests that banks over-accumulate equity capital in terms of allocative efficiency, based on which I discuss implications on regulations.*
   
