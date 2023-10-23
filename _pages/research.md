@@ -69,7 +69,7 @@ text-align: justify}
 
 
 ## Work In Progress
-* Many to be updated.
+* To be updated.
 
 
 
