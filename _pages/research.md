@@ -56,6 +56,7 @@ text-align: justify}
 
 * ["The Sexual Orientation Glass Ceiling in the United States (2008 - 2021)"](https://ivanyyi.github.io/files/glass_ceiling_2021.pdf) (with Yuxiao Hu), 2023, R&R at ***Journal of Population Economics***. [Slides](https://www.aeaweb.org/conference/2021/preliminary/powerpoint/Ft4Aehky)
   * ***Brief Abstract:  Sexual orientation wage gap increases across the wage distribution.***
+  
 <!--
    *Abstract: We find that homosexual male workers in the United States have persistently faced a glass ceiling since the sexual orientation wage gap increases across the wage distribution. Specifically, non-white homosexuals and those working in female-dominated environment are exposed to a greater glass ceiling effect. We employ unconditional quantile regression and Oaxaca-style decomposition to determine whether this pattern is primarily attributable to productivity differences or to wage structure differences. Results suggest that although homosexual male workers should have earned more due to their better labor market characteristics, the unequal reward system based on sexual orientation impedes them from gaining high incomes.*
 
