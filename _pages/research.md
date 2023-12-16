@@ -31,7 +31,8 @@ text-align: justify}
 ## Working Papers
 * ["Clarifying the Relationship Between Bank Concentration and Risks: Role of Bank Capital"](https://ivanyyi.github.io/files/JMP_YUYI.pdf), 2023. (**Job Market Paper**)
   * *Brief Abstract: Concentration-risk relationship depends on whether bank capital constraint is binding.*
-<!--
+  * *Previously entitled "Bank Capital, Bank Concentration, and Risk Taking".*
+<!--.
 [SSRN Version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4250446)
  -->
  
