@@ -55,7 +55,7 @@ text-align: justify}
 -->
 
 
-* ["The Sexual Orientation Glass Ceiling in the United States (2008 - 2021)"](https://ivanyyi.github.io/files/glass_ceiling_2021.pdf) (with Yuxiao Hu), 2023, R&R at ***Journal of Population Economics***. [Slides](https://www.aeaweb.org/conference/2021/preliminary/powerpoint/Ft4Aehky)
+* ["The Sexual Orientation Glass Ceiling in the United States (2008 - 2021)"](https://ivanyyi.github.io/files/glass_ceiling_2021.pdf) (with Yuxiao Hu), 2023. [Slides](https://www.aeaweb.org/conference/2021/preliminary/powerpoint/Ft4Aehky)
   * *Brief Abstract:  Sexual orientation wage gap increases across the wage distribution.*
   
 <!--
