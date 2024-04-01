@@ -15,7 +15,7 @@ text-align: justify}
 
 Welcome! I am an Economist. 
 
-My current research interest lies in macro finance, especially bank competition, financial stability, etc. I am now an Assistant Professor of Economics at Nankai University. I received my PhD from the London School of Economics and Political Science (LSE).
+My current research interest lies in macro finance, especially bank competition, financial stability, etc. I am now an Assistant Professor of Economics at Nankai University. I received my PhD in Economics from the London School of Economics and Political Science (LSE).
 
 
 
