@@ -31,7 +31,7 @@ text-align: justify}
 ## Working Papers
 * "Held-to-maturity Accounting and Bank Runs" (with [Kaiji Chen](https://sites.google.com/site/chenkaiji/) and [Shengxing Zhang](https://sites.google.com/site/oo7zsx/home)), 2024. *Draft coming soon*
   * *Brief Abstract: Held-to-maturity accounting makes banks more volunrable to run risks.*
-  * *Presentations: CBCF Spring Forum; Macro Finance and Banking Workshop (SUFE); CIRF; CICM; AMES; CICF; CFRC; Workshop on Money, Banking, Payments, and Finance (Federal Reserve Board of Governors), CES Annual Meeting (China), Fudan (Econ)\*.*
+  * *Presentations: CBCF Spring Forum; Macro Finance and Banking Workshop (SUFE); CIRF; CICM; AMES; CICF; CFRC; Workshop on Money, Banking, Payments, and Finance (Federal Reserve Board of Governors); CES Annual Meeting (China); Fudan (Econ)\*.*
  
 * "Structural Transformation and Financial Deregulation" (with [Gang Zhang](https://english.ckgsb.edu.cn/faculty/zhang-gang/) and [Shengxing Zhang](https://sites.google.com/site/oo7zsx/home)), 2024. *Draft coming soon*
   * *Brief Abstract: Economic structure across states with deregulated banking sectors became closer.*
@@ -42,7 +42,7 @@ text-align: justify}
   * *Brief Abstract: Concentration-risk relationship depends on whether bank capital constraint is binding.*
   * *Previously entitled "Bank Capital, Bank Concentration, and Risk Taking".*
   * *Awarded with Rising Star Award, Chinese Economist Society.*
-  * *Presentations: AEA (poster); CFM, LSE; CES Annual Meeting (NA and China); AMES; SWFA; EFG (Xiamen University); Nankai University; MMF.*
+  * *Presentations: AEA (poster); LSE; CES Annual Meeting (NA and China); AMES; SWFA; EFG (Xiamen University); Nankai University; MMF.*
 <!--.
 [SSRN Version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4250446)
  -->
@@ -56,7 +56,7 @@ text-align: justify}
 
 * ["Bank Concentration, Bank Capital, and Misallocation"](https://ivanyyi.github.io/files/working.pdf), 2023. 
   * *Brief Abstract: Accumulating too much bank capital is NOT good in terms of allocative efficiency.*
-  * *Presentations: Macro Finance Society Workshop (Bank of Greece); Macro PhD Workshop (University of Zurich); CFM, LSE; AMES; AFR (Zhejiang University); ESAM;  EFG (Xiamen University); China Economics Annual Conference; AsianFA.*
+  * *Presentations: Macro Finance Society Workshop (Bank of Greece); Macro PhD Workshop (University of Zurich); LSE; AMES; AFR (Zhejiang University); ESAM;  EFG (Xiamen University); China Economics Annual Conference; AsianFA.*
 <!--
 [SSRN Version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4046630)
  -->
@@ -69,7 +69,7 @@ text-align: justify}
 
 * ["The Sexual Orientation Glass Ceiling in the United States (2008 - 2021)"](https://ivanyyi.github.io/files/glass_ceiling_2021.pdf) (with Yuxiao Hu), 2023. [Slides](https://www.aeaweb.org/conference/2021/preliminary/powerpoint/Ft4Aehky)
   * *Brief Abstract:  Sexual orientation wage gap increases across the wage distribution.*
-  * *Presentations: AEA\*, SEA\*, LSE Development Seminar\*.*
+  * *Presentations: AEA\*; SEA\*; LSE Development Seminar\*.*
   
 <!--
    *Abstract: We find that homosexual male workers in the United States have persistently faced a glass ceiling since the sexual orientation wage gap increases across the wage distribution. Specifically, non-white homosexuals and those working in female-dominated environment are exposed to a greater glass ceiling effect. We employ unconditional quantile regression and Oaxaca-style decomposition to determine whether this pattern is primarily attributable to productivity differences or to wage structure differences. Results suggest that although homosexual male workers should have earned more due to their better labor market characteristics, the unequal reward system based on sexual orientation impedes them from gaining high incomes.*
