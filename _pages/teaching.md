@@ -14,14 +14,12 @@ author_profile: true
 -->
 ## Graduate Level
 
-* MSIN001 Corporate Finance (class), UCL, 2021-2022
-* EC400 Pre-sessional Mathematics for Micro and Macro (class), LSE, 2018
+* MSIN001 Corporate Finance (class), UCL, 2021-2022.
+* EC400 Pre-sessional Mathematics for Micro and Macro (class), LSE, 2018.
 
 
 ## Undergraduate Level
-* EC221 Principles of Econometrics (class), LSE, 2018-2021
-* Teaching Assistant for International Economics, Wuhan University, 2015-2016
-* Teaching Assistant for Ordinary Differential Equations, Wuhan University, 2015-2016                                                                                                                           
-                                                                                                                                                                                                                         
+* Intermediate Macroeconomics (lecture), Nankai University, 2024-present.
+* EC221 Principles of Econometrics (class), LSE, 2018-2021.                                                                                                                               
 
 
