@@ -19,7 +19,7 @@ My current research interest lies in macro finance, with a particular focus on *
 
 
 
-Email: [ivan_yyi@nankai.edu.cn](mailto:ivan_yyi@nankai.edu.cn)
+Email: [ivan_yyi@nankai.edu.cn](mailto:ivan_yyi@nankai.edu.cn). Let me know if you are interested in RA work.
 
 This is my [CV](https://IvanYYi.github.io/files/CV_YUYI.pdf).
 
