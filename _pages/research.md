@@ -29,9 +29,17 @@ text-align: justify}
 ***Production and Operations Management***, forthcoming-->
 
 ## Working Papers
+* "Held-to-maturity Accounting and Bank Runs", (with [Kaiji Chen](https://sites.google.com/site/chenkaiji/) and [Shengxing Zhang](https://sites.google.com/site/oo7zsx/home)) 2024. *Draft coming soon*
+  * *Brief Abstract: Held-to-maturity accounting makes banks more volunrable to run risks.*
+ 
+* "Structural Transformation and Financial Deregulation", (with Gang Zhang and [Shengxing Zhang](https://sites.google.com/site/oo7zsx/home)) 2024. *Draft coming soon*
+  * *Brief Abstract: Held-to-maturity accounting makes banks more volunrable to run risks.*
+
+
 * ["Clarifying the Relationship Between Bank Concentration and Risks: Role of Bank Capital"](https://ivanyyi.github.io/files/JMP_YUYI.pdf), 2023. (**Job Market Paper**)
   * *Brief Abstract: Concentration-risk relationship depends on whether bank capital constraint is binding.*
   * *Previously entitled "Bank Capital, Bank Concentration, and Risk Taking".*
+  * *Awarded with Rising Star Award, Chinese Economist Society.*
 <!--.
 [SSRN Version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4250446)
  -->
