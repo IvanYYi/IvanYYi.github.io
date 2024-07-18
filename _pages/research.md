@@ -29,7 +29,7 @@ text-align: justify};  font-size: 10pt;
 ***Production and Operations Management***, forthcoming-->
 
 ## Working Papers
-1. "Held-to-maturity Accounting and Bank Runs" (with [Kaiji Chen](https://sites.google.com/site/chenkaiji/) and [Shengxing Zhang](https://sites.google.com/site/oo7zsx/home)), 2024. *Draft coming soon*
+1. <font size="1"> "Held-to-maturity Accounting and Bank Runs" (with [Kaiji Chen](https://sites.google.com/site/chenkaiji/) and [Shengxing Zhang](https://sites.google.com/site/oo7zsx/home)), 2024. *Draft coming soon*</font> 
   * *Brief Abstract: Held-to-maturity accounting makes banks more volunrable to run risks.*
   * *Presentations: CBCF Spring Forum; Macro Finance and Banking Workshop (SUFE); CIRF; CICM; AMES; CICF; CFRC; Workshop on Money, Banking, Payments, and Finance (Federal Reserve Board of Governors); CES Annual Meeting (China); Fudan (Econ)\*.*
  
