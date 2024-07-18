@@ -6,7 +6,7 @@ author_profile: true
 ---
 <style>
 body {
-text-align: justify}
+text-align: justify};  font-size: 12pt;
 </style>
 
 <!--
