@@ -12,24 +12,6 @@ p {
 }
 </style>
 
-<!--
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.research reversed %}
-  {% include archive-single.html %}
-{% endfor %}
--->
-
-<!--## Publications
-
-* [Credit Rating Prediction Through Supply Chains: A Machine Learning Approach](https://doi.org/10.1111/poms.13634) (with Jing Wu and Sean X. Zhou)\
- 
-   
-***Production and Operations Management***, forthcoming-->
 
 ## Working Papers
 1. "Held-to-maturity Accounting and Bank Runs" (with [Kaiji Chen](https://sites.google.com/site/chenkaiji/) and [Shengxing Zhang](https://sites.google.com/site/oo7zsx/home)), 2024. *Draft coming soon*
@@ -59,7 +41,7 @@ p {
   * *Presentations: AEA\*; SEA\*; LSE Development Seminar\*.*
 
 
-
+ddddd
 
 
   
