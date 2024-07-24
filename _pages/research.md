@@ -8,10 +8,10 @@ author_profile: true
 body {
 text-align: justify;}
 h2 {
-  background-color: gray;
+  background-color: lightgray;
 }
-h3 {
-  font-size: 10px; line-height: 0.8;
+p {
+  font-size: 9px; line-height: 0.8;
 }
 </style>
 
