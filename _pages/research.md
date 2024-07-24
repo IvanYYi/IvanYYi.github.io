@@ -6,9 +6,9 @@ author_profile: true
 ---
 <style>
 body {
-text-align: justify;  font-size: 10pt;}
-h1 {
-  font-size: 40px;
+text-align: justify}
+p {
+  font-size: 14px;
 }
 </style>
 
