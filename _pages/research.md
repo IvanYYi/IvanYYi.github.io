@@ -7,7 +7,7 @@ author_profile: true
 <style>
 body {
 text-align: justify;}
-l1 {
+li {
   font-size: 12px; line-height: 0.8;
 }
 </style>
