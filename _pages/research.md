@@ -7,11 +7,8 @@ author_profile: true
 <style>
 body {
 text-align: justify;}
-h2 {
-  background-color: lightgray;
-}
 p {
-  font-size: 9px; line-height: 0.8;
+  font-size: 10px; line-height: 0.8;
 }
 </style>
 
