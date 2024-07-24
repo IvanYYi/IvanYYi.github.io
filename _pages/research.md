@@ -8,7 +8,7 @@ author_profile: true
 body {
 text-align: justify}
 p {
-  font-size: 14px;
+  font-size: 10pt;
 }
 </style>
 
