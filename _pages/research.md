@@ -11,7 +11,7 @@ h1 {
   background-color: gray;
 }
 p {
-  font-size: 10px;
+  font-size: 10px; line-height: 0.8;
 }
 </style>
 
