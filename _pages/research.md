@@ -7,10 +7,10 @@ author_profile: true
 <style>
 body {
 text-align: justify;}
-h1 {
+h2 {
   background-color: gray;
 }
-p {
+h3 {
   font-size: 10px; line-height: 0.8;
 }
 </style>
