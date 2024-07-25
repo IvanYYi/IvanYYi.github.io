@@ -10,7 +10,10 @@ redirect_from:
 <br/>
 <style>
 body {
-text-align: justify}
+text-align: justify;}
+li {
+  font-size: 14px;
+}
 </style>
 
 Welcome! I am an Economist. 
