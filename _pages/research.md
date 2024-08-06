@@ -16,11 +16,11 @@ li {
 ## Working Papers
 1. "Held-to-maturity Accounting and Bank Runs" (with [Kaiji Chen](https://sites.google.com/site/chenkaiji/) and [Shengxing Zhang](https://sites.google.com/site/oo7zsx/home)), 2024. *Draft coming soon*
   * *Brief Abstract: Held-to-maturity accounting makes banks more volunrable to run risks.*
-  * *Presentations: CBCF Spring Forum; Macro Finance and Banking Workshop (SUFE); CIRF; CICM; AMES; CICF; CFRC; Workshop on Money, Banking, Payments, and Finance (Federal Reserve Board of Governors); CES Annual Meeting (China); Fudan (Econ)\*.*
+  * *Presentations: CBCF Spring Forum; Macro Finance and Banking Workshop (SUFE); CIRF; CICM; AMES; CICF; CFRC; Workshop on Money, Banking, Payments, and Finance (Federal Reserve Board of Governors); CES Annual Meeting (China); Fudan (Econ)\*; Wharton Conference on Liquidity and Financial Fragility\*.*
  
 2. "Structural Transformation and Financial Deregulation" (with [Gang Zhang](https://english.ckgsb.edu.cn/faculty/zhang-gang/) and [Shengxing Zhang](https://sites.google.com/site/oo7zsx/home)), 2024. *Draft coming soon*
   * *Brief Abstract: Economic structure across states with deregulated banking sectors became closer.*
-  * *Presentations: CUFE (Finance)\*.*
+  * *Presentations: CUFE (Finance)\*; Midewest Macro\*.*
 
 
 3. ["Clarifying the Relationship Between Bank Concentration and Risks: Role of Bank Capital"](https://ivanyyi.github.io/files/JMP_YUYI.pdf), 2023. (**Job Market Paper**)
