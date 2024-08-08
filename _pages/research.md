@@ -20,7 +20,7 @@ li {
  
 2. "Structural Transformation and Financial Deregulation" (with [Gang Zhang](https://english.ckgsb.edu.cn/faculty/zhang-gang/) and [Shengxing Zhang](https://sites.google.com/site/oo7zsx/home)), 2024. *Draft coming soon*
   * *Brief Abstract: Economic structure across states with deregulated banking sectors became closer.*
-  * *Presentations: CUFE (Finance)\*; Midewest Macro\*.*
+  * *Presentations: CUFE (Finance)\*; Midwest Macro\*.*
 
 
 3. ["Clarifying the Relationship Between Bank Concentration and Risks: Role of Bank Capital"](https://ivanyyi.github.io/files/JMP_YUYI.pdf), 2023. (**Job Market Paper**)
