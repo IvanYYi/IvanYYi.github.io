@@ -30,7 +30,7 @@ li {
   * *Presentations: AEA (poster); LSE; CES Annual Meeting (NA and China); AMES; SWFA; EFG (Xiamen University); Nankai University; MMF.*
 
 
-4. ["Bank Concentration, Bank Capital, and Misallocation"](https://ivanyyi.github.io/files/working.pdf), 2023. 
+4. "Bank Concentration, Bank Capital, and Misallocation", 2023. 
   * *Brief Abstract: Accumulating too much bank capital is NOT good in terms of allocative efficiency.*
   * *Presentations: Macro Finance Society Workshop (Bank of Greece); Macro PhD Workshop (University of Zurich); LSE; AMES; AFR (Zhejiang University); ESAM;  EFG (Xiamen University); China Economics Annual Conference; AsianFA.*
 
