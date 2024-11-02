@@ -23,8 +23,8 @@ li {
   * *Presentations: CUFE (Finance); Midwest Macro; PKU (CCER), scheduled; IFABS, scheduled; EFG (XMU), scheduled.*
 
 
-3. ["Clarifying the Relationship Between Bank Concentration and Risks: Role of Bank Capital"](https://ivanyyi.github.io/files/JMP_YUYI.pdf), 2023. (**Job Market Paper**)
-  * *Brief Abstract: Concentration-risk relationship depends on whether bank capital constraint is binding.*
+3. "Bank Concentration and Heterogeneous Risk-taking Entrepreneurs", 2023. (**Job Market Paper**)
+  * *Brief Abstract: Effects on bank concentration on risks and allocative efficiency depends on whether bank capital constraint is binding.*
   * *Previously entitled "Bank Capital, Bank Concentration, and Risk Taking".*
   * *Awarded with Rising Star Award, Chinese Economist Society.*
   * *Presentations: AEA (poster); LSE; CES Annual Meeting (NA and China); AMES; SWFA; EFG (Xiamen University); Nankai University; MMF.*
@@ -36,9 +36,9 @@ li {
 
 
 
-5. ["The Sexual Orientation Glass Ceiling in the United States (2008 - 2021)"](https://ivanyyi.github.io/files/glass_ceiling_2021.pdf) (with Yuxiao Hu), 2023. [Slides](https://www.aeaweb.org/conference/2021/preliminary/powerpoint/Ft4Aehky)
+5. "In the Shadow of Rainbow: Is Sexual Orientation Wage Gap Disappearing in the United States?" (with Yuxiao Hu), 2023. [Slides](https://www.aeaweb.org/conference/2021/preliminary/powerpoint/Ft4Aehky)
   * *Brief Abstract:  Sexual orientation wage gap increases across the wage distribution.*
-  * *Presentations: AEA\*; SEA\*; LSE Development Seminar\*.*
+  * *Presentations: AEA; SEA; LSE Development Seminar.*
 
 
 
