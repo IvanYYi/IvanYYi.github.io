@@ -52,6 +52,12 @@ li {
 2. "Bank Competition and Passthrough of Monetary Policy" (with [Gang Zhang](https://english.ckgsb.edu.cn/faculty/zhang-gang/)).
 
 
+## Recent Discussion
+1. "FinTech, Banking and Monetary Policy
+Transmission Evidence from the Deposit Market" (Yueteng Zhu and Jiajun Lu).
+2. "Bank Competition and Passthrough of Monetary Policy" (with [Gang Zhang](https://english.ckgsb.edu.cn/faculty/zhang-gang/)).
+
+
 
 
 
