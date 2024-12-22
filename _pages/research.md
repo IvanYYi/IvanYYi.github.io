@@ -52,9 +52,9 @@ li {
 2. "**Bank Competition and Passthrough of Monetary Policy**" (with [Gang Zhang](https://english.ckgsb.edu.cn/faculty/zhang-gang/)).
 
 
-## Recent Discussions
-1. "**Payment System in a Theory a Banking**" by Zehao Liu, Haiyang Tu and Chengsi Zhang.
-2. "**FinTech, Banking and Monetary Policy Transmission Evidence from the Deposit Market**" by Yueteng Zhu and Jiajun Lu.
+## Paper Discussions
+1. [Slides]((https://IvanYYi.github.io/files/discussion2.pdf)) for "**Payment System in a Theory a Banking**" by Zehao Liu, Haiyang Tu and Chengsi Zhang.
+2. [Slides]((https://IvanYYi.github.io/files/discussion1.pdf)) for "**FinTech, Banking and Monetary Policy Transmission Evidence from the Deposit Market**" by Yueteng Zhu and Jiajun Lu.
 
 
 
