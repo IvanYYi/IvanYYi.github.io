@@ -20,7 +20,7 @@ li {
   * *Awarded with Rising Star Award, Chinese Economist Society.*
   * *Presentations: AEA (poster); LSE; CES Annual Meeting (NA and China); AMES; SWFA; EFG (Xiamen University); Nankai University; MMF.*
 
-2. "**Held-to-maturity Accounting and Bank Runs**" (with [Kaiji Chen](https://sites.google.com/site/chenkaiji/) and [Shengxing Zhang](https://sites.google.com/site/oo7zsx/home)), 2024.
+2. "[**Held-to-maturity Accounting and Bank Runs**](https://wifpr.wharton.upenn.edu/wp-content/uploads/2024/10/Chen_Yi_Zhang-5.pdf)" (with [Kaiji Chen](https://sites.google.com/site/chenkaiji/) and [Shengxing Zhang](https://sites.google.com/site/oo7zsx/home)), 2024.
   * *Brief Abstract: Held-to-maturity accounting avoids current capital losses, but makes banks more volunrable to run risks if the interest rate further increases.*
   * *Presentations: CBCF Spring Forum; Macro Finance and Banking Workshop (SHUFE); CIRF; CICM; AMES; CICF; CFRC; Workshop on Money, Banking, Payments, and Finance (Federal Reserve Board of Governors); CES Annual Meeting (China); Fudan (Econ); Wharton Conference on Liquidity and Financial Fragility; Rutgers (Finance).*
  
