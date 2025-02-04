@@ -15,10 +15,10 @@ li {
 
 ## Working Papers
 1. "**Bank Concentration and Heterogeneous Risk-taking Entrepreneurs**", 2025.
-  * *Brief Abstract: Effects on bank concentration on risks and allocative efficiency depends on whether the bank capital constraint is binding.*
+  * *Brief Abstract: The effect on bank concentration on risks and allocative efficiency are both non-monotonic. Bank capital plays a role.*
   * *Previously entitled "Bank Capital, Bank Concentration, and Risk Taking".*
   * *Awarded with Rising Star Award, Chinese Economist Society.*
-  * *Presentations: AEA (poster); LSE; CES Annual Meeting (NA and China); AMES; SWFA; EFG (Xiamen University); Nankai University; MMF.*
+  * *Presentations: LSE; CES Annual Meeting (NA and China); AMES; SWFA; EFG (Xiamen University); Nankai University; MMF; AEA (poster).*
 
 2. "[**Held-to-maturity Accounting and Bank Runs**](https://wifpr.wharton.upenn.edu/wp-content/uploads/2024/10/Chen_Yi_Zhang-5.pdf)" (with [Kaiji Chen](https://sites.google.com/site/chenkaiji/) and [Shengxing Zhang](https://sites.google.com/site/oo7zsx/home)), 2024.
   * *Brief Abstract: Held-to-maturity accounting avoids current capital losses, but makes banks more volunrable to run risks if the interest rate further increases.*
