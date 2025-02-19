@@ -14,9 +14,8 @@ li {
 
 
 ## Working Papers
-1. "**Bank Concentration and Heterogeneous Risk-taking Entrepreneurs**", 2025.
-  * *Brief Abstract: The effect on bank concentration on risks and allocative efficiency are both non-monotonic. Bank capital plays a role.*
-  * *Previously entitled "Bank Capital, Bank Concentration, and Risk Taking".*
+1. "**Bank Capital, Bank Concentration, and Risk-taking**", 2025.
+  * *Brief Abstract: The effect on bank concentration on risks and capital allocation are both non-monotonic. Bank capital plays a role.*
   * *Awarded with Rising Star Award, Chinese Economist Society.*
   * *Presentations: LSE; MMF; CES Annual Meeting (NA and China); AMES; SWFA; EFG (Xiamen University); Nankai University; AEA (poster).*
 
