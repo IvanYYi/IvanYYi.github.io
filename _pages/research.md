@@ -14,7 +14,7 @@ li {
 
 
 ## Working Papers
-1. "**Bank Capital, Bank Concentration, and Risk-taking**", 2025.
+1. "[**Bank Capital, Bank Concentration, and Risk-taking**"](https://www.dropbox.com/scl/fi/6m6uuiututiy6e2emvtso/JMP_YUYI.pdf?rlkey=llfugl5l0ocrfm20904pa7krp&st=gvd38wp1&dl=0), 2025. (first version: 2022 Nov)
   * *Brief Abstract: The effect on bank concentration on risks and capital allocation are both non-monotonic. Bank capital plays a role.*
   * *Awarded with Rising Star Award, Chinese Economist Society.*
   * *Presentations: LSE; MMF; CES Annual Meeting (NA and China); AMES; SWFA; EFG (Xiamen University); Nankai University; AEA (poster).*
