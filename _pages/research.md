@@ -14,7 +14,7 @@ li {
 
 
 ## Working Papers
-1. "[**Bank Capital, Bank Concentration, and Risk-taking**"](https://ivanyyi.github.io/files/JMP_YUYI.pdf), 2025. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4250446) (first version: 2022 Nov)
+1. "[**Bank Capital, Bank Concentration, and Risk-taking**"](https://ivanyyi.github.io/files/JMP_YUYI.pdf), 2025. [**SSRN**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4250446) (first version: Nov 2022)
   * *Brief Abstract: The effect on bank concentration on risks and capital allocation are both non-monotonic. Bank capital plays a role.*
   * *Awarded with Rising Star Award, Chinese Economist Society.*
   * *Presentations: LSE; MMF; CES Annual Meeting (NA and China); AMES; SWFA; EFG (Xiamen University); Nankai University; AEA (poster).*
@@ -27,7 +27,7 @@ li {
   * *Brief Abstract: Economic structure across states with deregulated banking sectors became closer.*
   * *Presentations: SFS Cavalcade, scheduled; PKU (CCER); CUFE (Finance); Midwest Macro; IFABS; EFG (Xiamen University); Wuhan University.*
 
-4. "**Bank Concentration, Bank Capital, and Misallocation**", 2023. 
+4. ["**Bank Concentration, Bank Capital, and Misallocation**"](https://ivanyyi.github.io/files/working.pdf), 2023. [**SSRN**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4046630) (first version: Feb 2022)
   * *Brief Abstract: Accumulating too much bank capital is NOT good in terms of allocative efficiency.*
   * *Presentations: Macro Finance Society Workshop (Bank of Greece); Macro PhD Workshop (University of Zurich); LSE; AMES; AFR (Zhejiang University); ESAM;  EFG (Xiamen University); China Economics Annual Conference; AsianFA.*
 
