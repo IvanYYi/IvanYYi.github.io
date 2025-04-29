@@ -19,11 +19,11 @@ li {
   * *Awarded with Rising Star Award, Chinese Economist Society.*
   * *Presentations: LSE; MMF; CES Annual Meeting (China); AMES; SWFA; EFG (Xiamen University); Nankai University; AEA (poster).*
 
-2. "[**Held-to-maturity Accounting and Bank Runs**](https://wifpr.wharton.upenn.edu/wp-content/uploads/2024/10/Chen_Yi_Zhang-5.pdf)" (with [Kaiji Chen](https://sites.google.com/site/chenkaiji/) and [Shengxing Zhang](https://sites.google.com/site/oo7zsx/home)), 2024.
+2. "**Held-to-maturity Securities and Bank Runs**" (with [Kaiji Chen](https://sites.google.com/site/chenkaiji/) and [Shengxing Zhang](https://sites.google.com/site/oo7zsx/home)), 2024.
   * *Brief Abstract: Held-to-maturity accounting avoids current capital losses, but makes banks more volunrable to run risks if the interest rate further increases.*
   * *Presentations: Wharton Conference on Liquidity and Financial Fragility; CICM; CICF; CFRC; Workshop on Money, Banking, Payments, and Finance (Federal Reserve Board of Governors); CBCF Spring Forum; Macro Finance and Banking Workshop (SHUFE); CIRF;  AMES;  CES Annual Meeting (China and NA); Fudan (Econ);  Rutgers (Finance); Wuhan University.*
  
-3. "**Bank Expertise and Structural Transformation**" (with [Gang Zhang](https://english.ckgsb.edu.cn/faculty/zhang-gang/) and [Shengxing Zhang](https://sites.google.com/site/oo7zsx/home)), 2024.
+3. "[**Bank Expertise and Structural Transformation**"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5188046) (with [Gang Zhang](https://english.ckgsb.edu.cn/faculty/zhang-gang/) and [Shengxing Zhang](https://sites.google.com/site/oo7zsx/home)), 2024.
   * *Brief Abstract: Economic structure across states with deregulated banking sectors became closer.*
   * *Presentations: SFS Cavalcade, scheduled; PKU (CCER); CUFE (Finance); Midwest Macro; IFABS; EFG (Xiamen University); Wuhan University; Liaoning University.*
 
