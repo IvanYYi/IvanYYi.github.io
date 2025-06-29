@@ -23,11 +23,11 @@ li {
   * *Brief Abstract: Held-to-maturity accounting avoids current capital losses, but makes banks more volunrable to run risks if the interest rate further increases.*
   * *Presentations: Wharton Conference on Liquidity and Financial Fragility; CICM; CICF; CFRC; Workshop on Money, Banking, Payments, and Finance (Federal Reserve Board of Governors); CBCF Spring Forum; Macro Finance and Banking Workshop (SHUFE); CIRF;  AMES;  CES Annual Meeting (China and NA); Fudan (Econ);  Rutgers (Finance); Wuhan University.*
  
-3. ["**Bank Expertise and Structural Transformation**"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5188046) (with [Gang Zhang](https://sites.google.com/view/gang-zhang/home) and [Shengxing Zhang](https://sites.google.com/site/oo7zsx/home)), 2024.
+3. ["**Bank Expertise and Structural Transformation**"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5188046) (with [Gang Zhang](https://sites.google.com/view/gang-zhang/home) and [Shengxing Zhang](https://sites.google.com/site/oo7zsx/home)), 2025.
   * *Brief Abstract: Economic structure across states with deregulated banking sectors became closer.*
-  * *Presentations: SFS Cavalcade, scheduled; PKU (CCER); CUFE (Finance); Midwest Macro; IFABS; EFG (Xiamen University); Wuhan University; Liaoning University.*
+  * *Presentations: SFS Cavalcade NA; PKU (CCER); CUFE (Finance); Midwest Macro; IFABS; EFG (Xiamen University); Wuhan University; Liaoning University; SHUFE; Jinan University.*
 
-4. ["**Bank Concentration, Bank Capital, and Misallocation**"](https://ivanyyi.github.io/files/working.pdf), 2023. [**SSRN**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4046630) (first version: Feb 2022)
+4. ["**Bank Market Power and Capital Allocation**"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4046630), 2023. (first version: Feb 2022)
   * *Brief Abstract: Accumulating too much bank capital is NOT good in terms of allocative efficiency.*
   * *Presentations: Macro Finance Society Workshop (Bank of Greece); Macro PhD Workshop (University of Zurich); LSE; AMES; AFR (Zhejiang University); ESAM;  EFG (Xiamen University); China Economics Annual Conference; AsianFA.*
 
