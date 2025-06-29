@@ -27,7 +27,7 @@ li {
   * *Brief Abstract: Economic structure across states with deregulated banking sectors became closer.*
   * *Presentations: SFS Cavalcade NA; PKU (CCER); CUFE (Finance); Midwest Macro; IFABS; EFG (Xiamen University); Wuhan University; Liaoning University; SHUFE; Jinan University.*
 
-4. ["**Bank Market Power and Capital Allocation**"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4046630), 2025. (first version: Feb 2022) *Updated*
+4. ["**Bank Market Power and Capital Allocation**"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4046630), 2025. (first version: Feb 2022)
   * *Brief Abstract: Accumulating too much bank capital is NOT good in terms of allocative efficiency.*
   * *Presentations: Macro Finance Society Workshop (Bank of Greece); Macro PhD Workshop, University of Zurich; LSE; AMES; AFR (Zhejiang University); ESAM;  EFG (Xiamen University); China Economics Annual Conference; AsianFA.*
 
