@@ -49,7 +49,7 @@ li {
 
 
 ## Selected Work In Progress
-1. "**Search Frictions, Bank Market Power, and Business Cycles**" (with [Pengfei Wang](https://sites.google.com/view/pengfeiwang/home) and [Shengxing Zhang](https://sites.google.com/site/oo7zsx/home)).
+1. "**Imperfect Competition between Intermediaries**" (with [Shengxing Zhang](https://sites.google.com/site/oo7zsx/home)).
 
 
 ## Paper Discussions
