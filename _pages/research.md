@@ -21,7 +21,7 @@ li {
 
 2. "**Excess Loan Premium and Business Cycle Fluctuations**", 2025. (with [Pengfei Wang](https://sites.google.com/view/pengfeiwang/home) and [Shengxing Zhang](https://sites.google.com/site/oo7zsx/home)).
    * *Brief Abstract: Countercyclical excess loan premium, because of search friction and imperfect bank competition, amplifies the traditional financial accelerator mechanism.*
-   * *Selected presentations: Penn state.*
+   * *Selected presentations: Penn state, EFG (Xiamen University).*
 
 
 4. "**Held-to-maturity Securities and Bank Runs**" (with [Kaiji Chen](https://sites.google.com/site/chenkaiji/) and [Shengxing Zhang](https://sites.google.com/site/oo7zsx/home)), 2024.
@@ -30,7 +30,7 @@ li {
  
 4. ["**Bank Expertise and Structural Transformation**"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5188046) (with [Gang Zhang](https://sites.google.com/view/gang-zhang/home) and [Shengxing Zhang](https://sites.google.com/site/oo7zsx/home)), 2025.
   * *Brief Abstract: Economic structure across states with deregulated banking sectors became closer.*
-  * *Selected presentations: SFS Cavalcade NA; PKU (NSD); CUFE (Finance); Midwest Macro; EFG (Xiamen University); Wuhan University; Liaoning University; SHUFE; Jinan University; SFS Cavalcade Asia-Pacific (scheduled); CAS (Math).*
+  * *Selected presentations: SFS Cavalcade NA; PKU (NSD); CUFE (Finance); Midwest Macro; EFG (Xiamen University); Wuhan University; Liaoning University; SHUFE; Jinan University; SFS Cavalcade Asia-Pacific; CAS (Math).*
 
 5. ["**Bank Market Power and Capital Allocation**"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4046630), 2025. (first version: Feb 2022)
   * *Brief Abstract: Accumulating too much bank capital is NOT good in terms of allocative efficiency.*
