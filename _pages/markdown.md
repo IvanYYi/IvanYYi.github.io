@@ -200,3 +200,10 @@ Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should 
 ### Variable Tag
 
 This allows you to denote <var>variables</var>.
+<!--
+{% include base_path %}
+5. "**In the Shadow of Rainbow: Is Sexual Orientation Wage Gap Disappearing in the United States?**" (with Yuxiao Hu), 2023. [Slides](https://www.aeaweb.org/conference/2021/preliminary/powerpoint/Ft4Aehky)
+  * *Brief Abstract:  Sexual orientation wage gap increases across the wage distribution.*
+  * *Selected presentations: AEA; SEA; LSE Development Seminar.*
+{% endfor %}
+-->
