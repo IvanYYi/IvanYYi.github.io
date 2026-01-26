@@ -15,7 +15,7 @@ li {
 
 ## Working Papers
 1. "**Finance Originated Comovement**" (with [Pengfei Wang](https://sites.google.com/view/pengfeiwang/home) and [Shengxing Zhang](https://sites.google.com/site/oo7zsx/home)), 2026.
-   * *Brief Abstract: Endogenous credit supply generates comovement in consumption and investment after news shock, even before fundamentals are realized.*
+  * *Brief Abstract: Endogenous credit supply generates comovement in consumption and investment after news shock, even before fundamentals are realized.*
 
     
 2. ["**Bank Capital, Bank Concentration, and Risk-taking**"](https://ivanyyi.github.io/files/JMP_YUYI.pdf), 2025. [**SSRN**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4250446) (first version: Nov 2022)
@@ -26,8 +26,8 @@ li {
 
 
 3. "**Excess Loan Premium and Business Cycle Fluctuations**"  (with [Pengfei Wang](https://sites.google.com/view/pengfeiwang/home) and [Shengxing Zhang](https://sites.google.com/site/oo7zsx/home)), 2025.
-   * *Brief Abstract: Countercyclical excess loan premium, because of search friction and imperfect bank competition, amplifies the traditional financial accelerator mechanism.*
-   * *Selected presentations: Penn state, EFG (Xiamen University).*
+  * *Brief Abstract: Countercyclical excess loan premium, because of search friction and imperfect bank competition, amplifies the traditional financial accelerator mechanism.*
+  * *Selected presentations: Penn state, EFG (Xiamen University).*
 
 
 4. "**Held-to-maturity Securities and Bank Runs**" (with [Kaiji Chen](https://sites.google.com/site/chenkaiji/) and [Shengxing Zhang](https://sites.google.com/site/oo7zsx/home)), 2024.
