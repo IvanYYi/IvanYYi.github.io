@@ -15,7 +15,7 @@ li {
 
 ## Working Papers
 1. "**Finance Originated Comovement**" (with [Pengfei Wang](https://sites.google.com/view/pengfeiwang/home) and [Shengxing Zhang](https://sites.google.com/site/oo7zsx/home)), 2026.
-  * *Brief Abstract: Endogenous credit supply can generate expectation-driven business cycles.*
+* *Brief Abstract: Endogenous credit supply can generate expectation-driven business cycles.*
 
     
 2. ["**Bank Capital, Bank Concentration, and Risk-taking**"](https://ivanyyi.github.io/files/JMP_YUYI.pdf), 2025. [**SSRN**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4250446) (first version: Nov 2022)
