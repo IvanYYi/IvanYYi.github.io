@@ -13,7 +13,7 @@ li {
 </style>
 ## Working Papers
 1. "**Depositor Inertia and Deposit Market Power**" (with Changchuan Zhang, [Shengxing Zhang](https://sites.google.com/site/oo7zsx/home), and [Ying Zhou](https://sites.google.com/view/ying-zhou/home)), 2026.
-  * *Brief Abstract: Deposit beta is lower because of sleepy depositors.*
+  * *Brief Abstract: Deposit beta is lower because of sleepy depositorss.*
 
 2. "**Finance Originated Comovement**" (with [Pengfei Wang](https://sites.google.com/view/pengfeiwang/home) and [Shengxing Zhang](https://sites.google.com/site/oo7zsx/home)), 2026.
   * *Brief Abstract: Endogenous credit supply can generate expectation-driven business cycles.*
