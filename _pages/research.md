@@ -4,13 +4,6 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-<style>
-body {
-text-align: justify;}
-li {
-  font-size: 14px;
-}
-</style>
 
 
 ## Working Papers
