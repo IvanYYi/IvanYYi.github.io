@@ -39,13 +39,7 @@ li {
 
 7. ["**Bank Market Power and Capital Allocation**"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4046630), 2025. (first version: Feb 2022)
   * *Brief Abstract: Accumulating too much bank capital is NOT good in terms of allocative efficiency.*
-  * *Selected presentations: Macro Finance Society Workshop (Bank of Greece); Macro PhD Workshop, University of Zurich; LSE; AMES; AFR (Zhejiang University); ESAM;  EFG (Xiamen University).*
-
-
-
-
-  
-
+  * *Selected presentations: Macro Finance Society Workshop (Bank of Greece); Macro PhD Workshop, University of Zurich; LSE; AMES; AFR (Zhejiang University); ESAM;  EFG (Xiamen University).*  
 
 
 ## Selected Work In Progress
