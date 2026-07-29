@@ -14,6 +14,10 @@ li {
 ## Working Papers
 1. "**Depositor Inertia and Deposit Market Power**" (with Changchuan Zhang, [Shengxing Zhang](https://sites.google.com/site/oo7zsx/home), and [Ying Zhou](https://sites.google.com/view/ying-zhou/home)), 2026.
   * *Brief Abstract: Deposit beta is lower because of sleepy depositors.*
+  * *Selected presentations: HKCityU, NASM, Hong Kong Junior Macro Group Meeting, WESEAMS, AMES, MFA (scheduled).*
+
+2. "**Knowledge Conversion, Market Selection, and Long-Run Growth**" (with Mingle Li and Guang Yang), 2026. ***Revise and Resubmit***
+  * *Brief Abstract: Larger breakthrough leads to more market selection, which will not raise growth monotonically.*
 
 2. "**Finance Originated Comovement**" (with [Pengfei Wang](https://sites.google.com/view/pengfeiwang/home) and [Shengxing Zhang](https://sites.google.com/site/oo7zsx/home)), 2026.
   * *Brief Abstract: Endogenous credit supply can generate expectation-driven business cycles.*
@@ -25,7 +29,7 @@ li {
 
 4. "**Excess Loan Premium and Business Cycle Fluctuations**"  (with [Pengfei Wang](https://sites.google.com/view/pengfeiwang/home) and [Shengxing Zhang](https://sites.google.com/site/oo7zsx/home)), 2025.
   * *Brief Abstract: Countercyclical excess loan premium, because of search friction and imperfect bank competition, amplifies the traditional financial accelerator mechanism.*
-  * *Selected presentations: Penn state, EFG (Xiamen University).*
+  * *Selected presentations: Penn state, EFG (Xiamen University), CCER SI.*
 
 5. "**Held-to-maturity Securities and Bank Runs**" (with [Kaiji Chen](https://sites.google.com/site/chenkaiji/) and [Shengxing Zhang](https://sites.google.com/site/oo7zsx/home)), 2024.
   * *Brief Abstract: Held-to-maturity accounting avoids current capital losses, but makes banks more volunrable to run risks if the interest rate further increases.*
@@ -33,7 +37,7 @@ li {
  
 6. ["**Bank Expertise and Structural Transformation**"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5188046) (with [Gang Zhang](https://sites.google.com/view/gang-zhang/home) and [Shengxing Zhang](https://sites.google.com/site/oo7zsx/home)), 2025.
   * *Brief Abstract: Economic structure across states with deregulated banking sectors became closer.*
-  * *Selected presentations: SFS Cavalcade NA; PKU (NSD); CUFE (Finance); Midwest Macro; EFG (Xiamen University); Wuhan University; Liaoning University; SHUFE; Jinan University; SFS Cavalcade Asia-Pacific; CAS (Math).*
+  * *Selected presentations: SFS Cavalcade NA; PKU (NSD); CUFE (Finance); Midwest Macro; EFG (Xiamen University); Wuhan University; Liaoning University; SHUFE (finance/business); Jinan University; SFS Cavalcade Asia-Pacific; CAS (Math).*
 
 7. ["**Bank Market Power and Capital Allocation**"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4046630), 2025. (first version: Feb 2022)
   * *Brief Abstract: Accumulating too much bank capital is NOT good in terms of allocative efficiency.*
@@ -41,7 +45,7 @@ li {
 
 
 ## Selected Work In Progress
-1. "**Imperfect Competition between Intermediaries**" (with [Shengxing Zhang](https://sites.google.com/site/oo7zsx/home)).
+1. "**Labor Market Power under Directed Search**" (with [Xincheng Qiu](https://www.xinchengqiu.com/) and [Shengxing Zhang](https://sites.google.com/site/oo7zsx/home)).
 
 
 ## Paper Discussions
